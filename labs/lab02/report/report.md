@@ -2,11 +2,12 @@
 ## Front matter
 title: "Шаблон отчёта по лабораторной работе"
 subtitle: "Простейший вариант"
-author: "Дмитрий Сергеевич Кулябов"
+author: "талебу тенке  франк"
 
 ## Generic otions
 lang: ru-RU
 toc-title: "Содержание"
+key: value
 
 ## Bibliography
 bibliography: bib/cite.bib
@@ -107,7 +108,10 @@ header-includes:
 
 Описываются проведённые действия, в качестве иллюстрации даётся ссылка на иллюстрацию (рис. [-@fig:001]).
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Название рисунка](1.jpg){#fig:001 width=70%}
+
+(рис. [-@fig:002]).
+![Название рисунка](2.jpg){#fig:002 width=70%}
 
 # Выводы
 
